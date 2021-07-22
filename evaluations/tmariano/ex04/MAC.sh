@@ -1,0 +1,1 @@
+ifconfig | grep ether | sed --expression 's/  t.*//g' | sed --expression 's/.*er //g'

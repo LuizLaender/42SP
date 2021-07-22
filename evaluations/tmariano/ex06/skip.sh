@@ -1,0 +1,1 @@
+ls -l | grep -n . | grep ^[0-9]*[13579]: | sed --expression 's/^[0-9]*[13579]://g'  
