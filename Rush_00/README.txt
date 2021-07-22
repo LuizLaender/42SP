@@ -1,0 +1,2 @@
+"Projeto Limpo e organizado, fizeram o projeto consciente do processo e mostraram muito interesse em destrinchar as possibilidades de melhoria do código. Souberam manter o papo ativo e todos são muito gente boa. O grupo soou bem entrosado e com bastante animo. O código falhou com valor nulo no X com valor positivo no Y, coisa que foi facilmente ajustada pelo grupo e na tratativa de Int Overflow. Parabéns pelo processo. Valeu pela troca galera!"
+-VMINOMIY, FLOWER GUY
