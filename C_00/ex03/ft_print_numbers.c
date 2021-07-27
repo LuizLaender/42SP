@@ -2,12 +2,12 @@
 
 void	ft_print_numbers(void)
 {
-	int	contadorUm;
+	int	n;
 
-	contadorUm = 48;
-	while (contadorUm <= 58)
+	n = '0';
+	while (n <= '9')
 	{
-		write(1, &contadorUm, 1);
-		contadorUm++;
+		write(1, &n, 1);
+		n++;
 	}
 }
