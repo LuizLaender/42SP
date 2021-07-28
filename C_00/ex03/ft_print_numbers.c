@@ -2,12 +2,12 @@
 
 void	ft_print_numbers(void)
 {
-	int	n;
+	char	counter;
 
-	n = '0';
-	while (n <= '9')
+	counter = '0';
+	while (counter <= '9')
 	{
-		write(1, &n, 1);
-		n++;
+		write(1, &counter, 1);
+		counter++;
 	}
 }
