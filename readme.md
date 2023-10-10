@@ -7,8 +7,7 @@
 
 ### Built With
 
-<ul>
-  <li><img width='80px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917'/></li>
-  <li><img width='80px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png'/></li>
-  <li><img width='80px' src='https://jyroneparker.com/wp-content/uploads/2019/10/Git-Icon-1788C.png'/></li>
-</ul>
+<img width='80px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917'/></li>
+<img width='80px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png'/></li>
+<img width='80px' src='https://jyroneparker.com/wp-content/uploads/2019/10/Git-Icon-1788C.png'/></li>
+<img width='80px' src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350'/></li>
